@@ -66,6 +66,7 @@ button {
   padding: 10px 25px;
   border-radius: 5px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 footer {
   background-color: #25a2c3;
